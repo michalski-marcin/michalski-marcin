@@ -1,8 +1,8 @@
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michalski-marcin&theme=nord&border_radius=1&border=555555)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michalski-marcin&theme=github_dark_dimmed&border_radius=1&border=555555)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalski-marcin&layout=compact&theme=nord&border_radius=1&border_color=555555)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalski-marcin&layout=compact&theme=github_dark_dimmed&border_radius=1&border_color=555555)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **michalski-marcin/michalski-marcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
