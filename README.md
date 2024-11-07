@@ -1,6 +1,6 @@
 
 
-### <div align="left">Hi! I'm Marcin. A passionate web developer from Poland! 🚀</div>  
+### <div align="left">:wave: Hi! I'm Marcin. A passionate web developer from Poland! 🚀</div>  
   <br>
 
 - 🔭 I’m currently working on SpringBoot ToDo app, and BodyWaxStudio wordpress site.  
@@ -18,7 +18,7 @@
 <br/>  
 
 
-### My Skill Set  
+### My Skill Set :muscle:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
@@ -50,13 +50,13 @@
 <br/>  
 
 
-### Github Stats  
+### Github Stats :bar_chart:
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalski-marcin&hide_border=true&layout=compact&theme=github_dark_dimmed&border_radius=1&border_color=555555" align="center" /></div>  
 
 <br/>  
 
 
-### Recent Blog Posts  
+### Recent Blog Posts :newspaper:
 <!-- BLOG-POST-LIST:START -->
 - [Body Wax Studio: Solving the Mobile Challenge](https://blog.michalski.pro/body-wax-studio-solving-the-mobile-challenge/)
 - [How to Integrate Your WordPress Blog into a React App](https://blog.michalski.pro/how-to-integrate-your-wordpress-blog-into-a-react-app/)
@@ -66,7 +66,7 @@
 <br/>  
 
 
-### Connect with me  
+### Connect with me :eyes:
 <div align="center">
 <a href="https://github.com/michalski-marcin" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
