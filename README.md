@@ -22,25 +22,25 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
-  <img width="5" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=spring" height="42" alt="spring logo"  />
-  <img width="5" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo"  />
-  <img width="5" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo"  />
-  <img width="5" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=ts" height="42" alt="typescript logo"  />
-  <img width="5" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo"  />
-  <img width="5" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="tailwindcss logo"  />
-  <img width="5" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
-  <img width="5" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=postman" height="42" alt="postman logo"  />
-  <img width="5" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=idea" height="42" alt="intellijidea logo"  />
-  <img width="5" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="vscode logo"  />
 </div>
 
