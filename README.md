@@ -73,8 +73,10 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [Body Wax Studio: Solving the Mobile Challenge](https://blog.michalski.pro/body-wax-studio-solving-the-mobile-challenge/)
+- [How to Integrate Your WordPress Blog into a React App](https://blog.michalski.pro/how-to-integrate-your-wordpress-blog-into-a-react-app/)
+- [Introduction to Regular Expressions: „.” and „?”](https://blog.michalski.pro/introduction-to-regular-expressions-regex/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
