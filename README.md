@@ -1,6 +1,6 @@
 
 
-### <div align="left">:wave: Hi! I'm Marcin. A passionate web developer from Poland! 🚀</div>  
+### <div align="left">:wave: Hi! I'm Marcin. A passionate web developer from Poland!</div>  
   <br>
 
 
@@ -8,7 +8,7 @@
 ### :muscle: My Skill Set 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" height="42" alt="java logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=spring" height="42" alt="spring logo"  />
   <img width="8" />
