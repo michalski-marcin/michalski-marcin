@@ -8,7 +8,7 @@
 ### :muscle: My Skill Set 
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,blazor,js,ts,react,tailwind,git,postman,visualstudio&perline=8$titles=true"  alt="java logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,blazor,js,ts,react,tailwind,git,postman,visualstudio&perline=8&titles=true"  alt="java logo"  />
 </div>
 
 ###
