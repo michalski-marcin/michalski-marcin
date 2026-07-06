@@ -18,10 +18,9 @@
 
 
 ### :bar_chart: Github Stats 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalski-marcin&hide_border=true&layout=compact&theme=github_dark_dimmed&border_radius=1&border_color=555555" align="center" /></div>  
+<div align="center"></div>  
 
 <br/>  
-
 
 
 
