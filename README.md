@@ -8,7 +8,7 @@
 ### :muscle: My Skill Set 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,mysql,postgresql,vscode,pycharm&theme=dark&perline=15"  alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,postgresql,git,vscode,pycharm&theme=dark&perline=15"  alt="java logo"  />
 </div>
 
 ###
