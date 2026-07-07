@@ -18,7 +18,7 @@
 
 
 ### :bar_chart: Github Stats 
-<div align="center"></div>  
+<div align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=michalski-marcin&langs_count=5&theme=dark"></div>  
 
 <br/>  
 
