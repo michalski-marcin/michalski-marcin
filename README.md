@@ -27,8 +27,9 @@
 ### :bar_chart: Github Stats 
 
 <div align="center">
-<img src="https://ghstats.dev/api/card?username=michalski-marcin&theme=dracula&hide_border=true&hide_title=true&size=compact&hide=stars%2Cprs%2Cissues%2Cactive_day%2Cfollowers%2Chours%2Ctrend%2Cavg" alt="GitHub Stats Card" />
-<img height="280" src="https://github-stats-extended.vercel.app/api/top-langs?username=michalski-marcin&layout=compact&hide_title=true&langs_count=4&theme=dracula&hide_border=true" align="top"/>
+<img src="https://ghstats.dev/api/card?username=michalski-marcin&hide_border=true&hide_title=true&size=compact&hide=stars%2Cprs%2Cfollowers%2Cavg%2Cissues%2Chours%2Ctrend%2Cactive_day&order=grade%2Cstreak%2Cweek%2Crepos%2Ccommits%2Ccontributions" alt="GitHub Stats Card" />
+  <br/>
+<img src="https://ghstats.dev/api/langs?username=michalski-marcin&hide_border=true&hide_title=true&max_langs=6" alt="Top Languages" />
 
 </div>
 
