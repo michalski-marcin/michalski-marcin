@@ -1,7 +1,7 @@
 
 
-### <div align="left">:wave: Hi! I'm Marcin. </div>  
-<div align="left">Currently working for one of the world's largest contract logistics companies, where I improve reporting efficiency by automating Excel reports and writing optimized SQL queries that deliver faster access to business data, reducing manual work and supporting data-driven decision-making. </div>  
+### <div align="left">:wave: Hello! </div>  
+<div align="left">I'm Marcin and currently working for one of the world's largest contract logistics companies, where I improve reporting efficiency by automating Excel reports and writing optimized SQL queries that deliver faster access to business data, reducing manual work for Customer Service and supporting data-driven decision-making. </div>  
   <br/><br/>
  
 
@@ -25,6 +25,12 @@
 <br/><br/>  
 
 ### :bar_chart: Github Stats 
+
+<div align="center">
+<img height="280" src="https://github-stats-extended.vercel.app/api/top-langs?username=michalski-marcin&layout=compact&hide_title=true&langs_count=4&theme=dracula&hide_border=true" align="top"/>
+<img src="https://ghstats.dev/api/card?username=michalski-marcin&theme=dracula&hide_border=true&hide_title=true&size=compact&hide=stars%2Cprs%2Cissues%2Cactive_day%2Cfollowers%2Chours%2Ctrend%2Cavg" alt="GitHub Stats Card" />
+</div>
+
 
 <br/><br/>  
 
