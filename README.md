@@ -1,8 +1,9 @@
 
 
-### <div align="left">:wave: Hi! I'm Marcin. A passionate Software Developer from Poland!</div>  
-  <br>
-
+### <div align="left">:wave: Hi! I'm Marcin. </div>  
+<div align="left">Currently working for one of the world's largest contract logistics companies, where I improve reporting efficiency by automating Excel reports and writing optimized SQL queries that deliver faster access to business data, reducing manual work and supporting data-driven decision-making. </div>  
+  <br/><br/>
+ 
 
 
 ### :muscle: My Skill Set 
@@ -11,18 +12,21 @@
   <img src="https://skillicons.dev/icons?i=python,django,mysql,postgresql,git,vscode,pycharm&theme=dark&perline=15"  alt="java logo"  />
 </div>
 
-###
+<br/><br/>
+
+### 🚀 Current Projects
+
+- 📦 Logistics Delivery Performance Analysis
+- 📊 Supply Chain KPI Dashboard
+- 🗄️ SQL Analytics Portfolio
+- 🐍 Python Data Analytics
+- 📈 Power BI Dashboards
  
-
-<br/>  
-
+<br/><br/>  
 
 ### :bar_chart: Github Stats 
-<div align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=michalski-marcin&langs_count=5&theme=dark"></div>  
 
-<br/>  
-
-
+<br/><br/>  
 
 ### :eyes: Contact
 <div align="center">
