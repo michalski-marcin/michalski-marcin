@@ -9,7 +9,7 @@
 ### :muscle: My Skill Set 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,mysql,postgresql,git,vscode,pycharm&theme=dark&perline=15"  alt="java logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql,oracle,excel,pbi,tableau,pandas,numpy,jupyter,git,github,vscode&perline=6&theme=dark&titles=true"/>
 </div>
 
 <br/><br/>
