@@ -29,7 +29,7 @@
 <div align="center">
 <img src="https://ghstats.dev/api/card?username=michalski-marcin&hide_border=true&hide_title=true&size=compact&hide=stars%2Cprs%2Cfollowers%2Cavg%2Cissues%2Chours%2Ctrend%2Cactive_day&order=grade%2Cstreak%2Cweek%2Crepos%2Ccommits%2Ccontributions" alt="GitHub Stats Card" />
   <br/>
-<img src="https://ghstats.dev/api/langs?username=michalski-marcin&hide_border=true&hide_title=true&max_langs=6" alt="Top Languages" />
+<img src="https://ghstats.dev/api/langs?username=michalski-marcin&hide_border=true&hide_title=true&max_langs=9" alt="Top Languages" />
 
 </div>
 
